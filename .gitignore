@@ -1,0 +1,6 @@
+# Dependencies yang bisa dibuat ulang
+/node_modules
+
+# File Log dan Output
+npm-debug.log*
+yarn-debug.log*
